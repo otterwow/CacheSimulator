@@ -1,5 +1,5 @@
 # CacheSimulator
-A set associative cache simulator to keep track of cache hits and misses in a three layered architecture with different eviction policies
+A set associative cache simulator in C++ to keep track of cache hits and misses in a three layered architecture with different eviction policies
 
 The two fractals have very different memory access patterns. The Buddhabrot randomly skips over the screen, while the fern has a more deliberate pattern.
 
